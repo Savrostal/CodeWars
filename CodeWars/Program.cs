@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(StringSum.SumStrings("1223","9111"));
+            Console.WriteLine(IPAdress.UInt32ToIP(2149583361));
         }
     }
 }
